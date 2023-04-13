@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fdicdata"]
+	path = fdicdata
+	url = https://github.com/visbanking/fdicdata
+	shallow = true
+	registered = true
